@@ -1,5 +1,5 @@
 
-# KPI 1 — Revenue, Cost y Profit por mes
+# KPI 1 — Revenue, Cost y Profit by month
 SELECT
     DATE_FORMAT(date, '%Y-%m') AS month,
     SUM(revenue) AS total_revenue,
@@ -10,7 +10,7 @@ GROUP BY month
 ORDER BY month;
 
 
-#KPI 2 — Margen de ganancia por producto
+#KPI 2 — Margen de ganancia by  product
 SELECT
     product,
     SUM(revenue) AS revenue,
@@ -21,7 +21,7 @@ GROUP BY product
 ORDER BY profit_margin_pct DESC;
 
 
-#KPI 3 — Revenue por región
+#KPI 3 — Revenue by region
 SELECT
     region,
     SUM(revenue) AS total_revenue
@@ -30,7 +30,7 @@ GROUP BY region
 ORDER BY total_revenue DESC;
 
 
-#KPI 4 — Unidades vendidas por producto
+#KPI 4 — Units sold per product
 SELECT
     product,
     SUM(units_sold) AS total_units_sold
@@ -39,8 +39,9 @@ GROUP BY product
 ORDER BY total_units_sold DESC;
 
 
-#KPI 5 — Top meses por rentabilidad
-SELECT
+#KPI 5 — Top months by profitability
+    
+    SELECT
     DATE_FORMAT(date, '%Y-%m') AS month,
     ROUND(SUM(revenue - cost), 2) AS profit
 FROM financial_data
