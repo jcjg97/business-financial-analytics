@@ -15,18 +15,3 @@ Steps:
 5. Choose the CSV file
 6. Select schema: business_financial_analytics
 7. Import into table: financial_data
-*/
-
--- Optional: Enable local infile if the environment allows it
-SET GLOBAL local_infile = 1;
-
-/*
-Optional command (only if LOCAL INFILE is enabled in the environment):
-
-LOAD DATA LOCAL INFILE '/local/path/financial_data.csv'
-INTO TABLE financial_data
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS
-(date, region, product, revenue, cost, units_sold);
-*/
