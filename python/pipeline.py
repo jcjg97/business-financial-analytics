@@ -23,7 +23,7 @@ def load_data(path):
     """
     Load dataset from CSV file
     """
-    df = pd.read_csv(path, sep=';')
+    df = pd.read_csv(path, sep=',')
     return df
 
 # -----------------------------
