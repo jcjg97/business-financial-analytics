@@ -1,7 +1,7 @@
 # Business Financial Analytics & Automated Reporting
 
 This repository demonstrates an **end-to-end financial analytics workflow** using SQL, Python, R, Excel, and Power BI.  
-The project is designed to simulate real business needs in financial reporting, KPI analysis, risk insights, and dashboard creation — a strong showcase of skills for freelance projects.
+The project is designed to simulate real business needs in financial reporting, KPI analysi and dashboard creation — a strong showcase of skills for freelance projects.
 
 ---
 
