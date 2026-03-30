@@ -11,7 +11,7 @@ To provide a complete analytics pipeline from raw financial data processing to e
 
 - Data storage and KPI extraction with **SQL**
 - Exploratory data analysis and cleaning using **Python**
-- Exploratory
+- Machine learning & predictive financial analytics solution using **Python**
 - Exploratory data analysis using  **R**
 - Automated reporting in **Excel**
 - Interactive dashboards in **Power BI**
