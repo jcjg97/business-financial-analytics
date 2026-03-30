@@ -64,7 +64,7 @@ Explore the Power BI dashboard in /powerbi
 
 📑 Executive summary PDF with business insights
 
-🧾 Author
+
 
 Juan Camilo Jaramillo Gonzalez – Data Analyst | Financial Analytics | BI Specialist
 Contact: www.linkedin.com/in/juan-camilo-jaramillo-gonzalez-39a704a6
