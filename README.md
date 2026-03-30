@@ -54,7 +54,7 @@ View the Excel automated report in /excel
 
 Explore the Power BI dashboard in /powerbi
 
-**Expected Outputs
+## Expected Outputs
 
 📈 KPI summaries
 
