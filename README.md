@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Robot explicando análisis de datos" src="https://github.com/user-attachments/assets/94e772ee-d532-4b1a-b1a3-934c0d4a0b6d" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7b9c1c11-f533-463f-a229-914317963320" /># Business Financial Analytics & Automated Reporting
+# Business Financial Analytics & Automated Reporting
 
 This repository demonstrates an **end-to-end financial analytics workflow** using SQL, Python, R, Excel, and Power BI.  
 The project is designed to simulate real business needs in financial reporting, KPI analysis and dashboard creation.
@@ -60,8 +60,7 @@ Explore the Power BI dashboard in /powerbi
 
 📊 Interactive dashboards
 
- <img width="1536" height="1024" alt="Robot explicando análisis de datos" src="https://github.com/user-attachments/assets/c1f9a664-1c4a-4539-9ca6-64e51b52f879" />
- Machine learning & predictive financial analytics solution
+🤖   Machine learning & predictive financial analytics solution
 
 📑 Executive summary PDF with business insights
 
