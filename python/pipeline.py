@@ -104,7 +104,7 @@ def run_pipeline():
     df = create_features(df)
 
     # Save processed data
-    df.to_csv("../data/processed/financial_data_clean.csv", index=False)
+    df.to_csv("../data/processed/financial_data_processed.csv", index=False)
 
     model = train_model(df)
 
