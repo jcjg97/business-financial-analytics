@@ -62,7 +62,7 @@ Explore the Power BI dashboard in /powerbi
 
 🤖   Machine learning & predictive financial analytics solution
 
-📑 Executive summary PDF with business insights
+📑 Executive summary Excel with business insights
 
 
 
